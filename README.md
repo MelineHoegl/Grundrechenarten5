@@ -29,6 +29,19 @@ Hinweise zu den Verfahren:
 - **Multiplikation mit zweistelligem Faktor:** Erst wird mit den Zehnern gerechnet (mit 0 am Ende), dann mit den Einern, dann wird addiert. Die Schreibweise ohne 0, nach links eingerückt, wird ebenfalls als richtig erkannt.
 - **Division schriftlich:** Die Kinder beantworten Schritt für Schritt „Wie oft passt …?“, „… · … =“ und „Wie viel bleibt übrig?“. Das Rechenbild wächst dabei mit.
 
+## Extra: Sachaufgaben-Rallye
+
+Auf der Startseite gibt es unter den Bergen die Karte **Sachaufgaben-Rallye** (`sachaufgaben-rallye.html`).
+Sechs Sachaufgaben mit denselben Geschichten für die 5. und 6. Klasse: Die 5. Klasse rechnet mit ganzen Zahlen, die 6. Klasse mit Kommazahlen.
+So kann die ganze Klasse eine Aufgabe gemeinsam besprechen, und danach löst jedes Kind allein.
+
+Ablauf pro Station: Was ist gesucht? → Welcher Rechenweg passt? → Zwischenergebnisse rechnen (im Heft) und eintippen → richtigen Antwortsatz wählen.
+Für jeden Schritt, der im ersten Versuch klappt, gibt es einen Stern. Nach zwei Fehlversuchen beim Rechnen erscheint ein Tipp mit der Rechnung.
+
+Die Rallye startet in dieser Lernwelt direkt mit der 5. Klasse. Klasse wechseln geht über „← Klasse wechseln“.
+Direkte Links: `sachaufgaben-rallye.html#klasse5` oder `sachaufgaben-rallye.html#klasse6`.
+Die Rallye liegt auch im Ordner `einzeldatei/` und funktioniert dort ohne Internet zusammen mit der Einzeldatei.
+
 ## Bedienung
 
 Die Lernwelt funktioniert mit Maus, Tastatur und auf dem Tablet. Auf dem Bildschirm gibt es ein Zahlenfeld.
