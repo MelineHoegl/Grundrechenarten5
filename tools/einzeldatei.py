@@ -8,7 +8,7 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 html = (ROOT / 'index.html').read_text(encoding='utf-8')
 
 css = (ROOT / 'css' / 'style.css').read_text(encoding='utf-8')
-html = html.replace('<link rel="stylesheet" href="css/style.css">', '<style>\n' + css + '\n</style>')
+html = re.sub(r'<link rel="stylesheet" href="css/style\.css(\?[^"]*)?">', lambda m: '<style>\n' + css + '\n</style>', html)
 
 
 def inline_script(match):
